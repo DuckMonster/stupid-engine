@@ -1,0 +1,25 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": [ ".vs" ]
+		}
+	],
+
+	"settings":
+	{
+		"ms_build_configs":
+		[
+			{
+				"name": "Debug",
+				"outputs":
+				[
+					{
+						"path": "bin\\Debug\\stupid.exe"
+					}
+				]
+			},
+		]
+	}
+}
